@@ -1,0 +1,84 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Unit test / coverage reports
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+*.tmp
+
+# Machine Learning / Data Science specific
+*.h5
+*.pkl
+*.pickle
+*.model
+*.weights
+*.ckpt
+*.pt
+*.pth
+
+# Data files
+data/raw/
+data/processed/
+*.csv
+*.json
+*.jsonl
+
+# Model artifacts
+models/
+checkpoints/
+experiments/
+runs/
+wandb/
+
+# Vector databases
+*.db
+*.sqlite
+qdrant_storage/
+chroma_db/
+faiss_index/
+
+# API keys and secrets
+.env.local
+secrets.json
+credentials.json
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+*.swp
+
+# Logs
+logs/
+*.log
+
+# Testing
+test_results/
+coverage_html_report/
