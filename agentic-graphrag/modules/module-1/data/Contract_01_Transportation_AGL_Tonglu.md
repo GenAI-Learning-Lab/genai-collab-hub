@@ -2,7 +2,7 @@ Exhibit 10.10
 
 Road Transportation Agreement
 
-Party A (Shipper): Aperture Global Logistics Pvt. Ltd.
+Party A (Shipper): Aperture Global Logistics
 Address: 123 Main Street, Anytown, USA 12345
 
 Party B (Carrier): Tonglu Tongze Logistics Ltd.
@@ -61,10 +61,10 @@ Due to the need for logistics business, Party A and Party B enter into this Road
 15. Any different interpretation of this Agreement by both Parties is subject to final interpretation by Party A.
 
 
-Party A: Aperture Global Logistics Pvt. Ltd.      Party B: Tonglu Tongze Logistics Ltd.
+Party A: Aperture Global Logistics      Party B: Tonglu Tongze Logistics Ltd.
 
 
-Company seal: /s/ Aperture Global Logistics Pvt. Ltd.               Date: December 22, 2014
+Company seal: /s/ Aperture Global Logistics               Date: December 22, 2014
 
 Date: December 22, 2014     
 

@@ -8,7 +8,7 @@ WAREHOUSE AUTOMATION SYSTEMS
 
 DISTRIBUTOR AGREEMENT
 
-This Distributor Agreement ("Agreement") is entered into by and between CYBERDYNE ROBOTICS, a Delaware corporation with its executive offices located at 1310 Chesapeake Terrace, Sunnyvale, California 94089, USA ("Cyberdyne"), and APERTURE GLOBAL LOGISTICS, a corporation formed under the laws of the State of Delaware, with its registered offices located at 123 Main Street, Anytown, USA 12345 ("Distributor"), as of June 8, 2010 ("Effective Date").
+This Distributor Agreement ("Agreement") is entered into by and between CYBERDYNE ROBOTICS, a Delaware corporation with its executive offices located at 1310 Chesapeake Terrace, Sunnyvale, California 94089, USA ("Cyberdyne"), and Aperture Global Logistics, a corporation formed under the laws of the State of Delaware, with its registered offices located at 123 Main Street, Anytown, USA 12345 ("Distributor"), as of June 8, 2010 ("Effective Date").
 
 RECITALS
 
